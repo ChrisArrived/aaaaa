@@ -2,7 +2,7 @@
     {
         const imageFilePath = "assets/images/";
         const numImages = 1; //og 127
-        const flipRandomPercent = 2; //NOTE: the number represents how many numbers to randomly choose. bigger = less likely, smaller = more likely. og 2
+        const flipRandomPercent = 100; //NOTE: the number represents how many numbers to randomly choose. bigger = less likely, smaller = more likely. og 2
         var isEnabled = true;
 
         //NOTE: The purpose of this function is to get all YouTube thumbnails on the page
